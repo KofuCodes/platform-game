@@ -1,0 +1,724 @@
+('C:\\Users\\Ethan tran\\Documents\\platform-game\\build\\main\\PYZ-00.pyz',
+ [('__future__',
+   'c:\\users\\ethan '
+   'tran\\appdata\\local\\programs\\python\\python37-32\\lib\\__future__.py',
+   'PYMODULE'),
+  ('_compat_pickle',
+   'c:\\users\\ethan '
+   'tran\\appdata\\local\\programs\\python\\python37-32\\lib\\_compat_pickle.py',
+   'PYMODULE'),
+  ('_compression',
+   'c:\\users\\ethan '
+   'tran\\appdata\\local\\programs\\python\\python37-32\\lib\\_compression.py',
+   'PYMODULE'),
+  ('_py_abc',
+   'c:\\users\\ethan '
+   'tran\\appdata\\local\\programs\\python\\python37-32\\lib\\_py_abc.py',
+   'PYMODULE'),
+  ('_strptime',
+   'c:\\users\\ethan '
+   'tran\\appdata\\local\\programs\\python\\python37-32\\lib\\_strptime.py',
+   'PYMODULE'),
+  ('_threading_local',
+   'c:\\users\\ethan '
+   'tran\\appdata\\local\\programs\\python\\python37-32\\lib\\_threading_local.py',
+   'PYMODULE'),
+  ('argparse',
+   'c:\\users\\ethan '
+   'tran\\appdata\\local\\programs\\python\\python37-32\\lib\\argparse.py',
+   'PYMODULE'),
+  ('ast',
+   'c:\\users\\ethan '
+   'tran\\appdata\\local\\programs\\python\\python37-32\\lib\\ast.py',
+   'PYMODULE'),
+  ('base64',
+   'c:\\users\\ethan '
+   'tran\\appdata\\local\\programs\\python\\python37-32\\lib\\base64.py',
+   'PYMODULE'),
+  ('bisect',
+   'c:\\users\\ethan '
+   'tran\\appdata\\local\\programs\\python\\python37-32\\lib\\bisect.py',
+   'PYMODULE'),
+  ('bz2',
+   'c:\\users\\ethan '
+   'tran\\appdata\\local\\programs\\python\\python37-32\\lib\\bz2.py',
+   'PYMODULE'),
+  ('calendar',
+   'c:\\users\\ethan '
+   'tran\\appdata\\local\\programs\\python\\python37-32\\lib\\calendar.py',
+   'PYMODULE'),
+  ('configparser',
+   'c:\\users\\ethan '
+   'tran\\appdata\\local\\programs\\python\\python37-32\\lib\\configparser.py',
+   'PYMODULE'),
+  ('contextlib',
+   'c:\\users\\ethan '
+   'tran\\appdata\\local\\programs\\python\\python37-32\\lib\\contextlib.py',
+   'PYMODULE'),
+  ('copy',
+   'c:\\users\\ethan '
+   'tran\\appdata\\local\\programs\\python\\python37-32\\lib\\copy.py',
+   'PYMODULE'),
+  ('csv',
+   'c:\\users\\ethan '
+   'tran\\appdata\\local\\programs\\python\\python37-32\\lib\\csv.py',
+   'PYMODULE'),
+  ('ctypes',
+   'c:\\users\\ethan '
+   'tran\\appdata\\local\\programs\\python\\python37-32\\lib\\ctypes\\__init__.py',
+   'PYMODULE'),
+  ('ctypes._endian',
+   'c:\\users\\ethan '
+   'tran\\appdata\\local\\programs\\python\\python37-32\\lib\\ctypes\\_endian.py',
+   'PYMODULE'),
+  ('dataclasses',
+   'c:\\users\\ethan '
+   'tran\\appdata\\local\\programs\\python\\python37-32\\lib\\dataclasses.py',
+   'PYMODULE'),
+  ('datetime',
+   'c:\\users\\ethan '
+   'tran\\appdata\\local\\programs\\python\\python37-32\\lib\\datetime.py',
+   'PYMODULE'),
+  ('decoration',
+   'C:\\Users\\Ethan tran\\Documents\\platform-game\\decoration.py',
+   'PYMODULE'),
+  ('dis',
+   'c:\\users\\ethan '
+   'tran\\appdata\\local\\programs\\python\\python37-32\\lib\\dis.py',
+   'PYMODULE'),
+  ('email',
+   'c:\\users\\ethan '
+   'tran\\appdata\\local\\programs\\python\\python37-32\\lib\\email\\__init__.py',
+   'PYMODULE'),
+  ('email._encoded_words',
+   'c:\\users\\ethan '
+   'tran\\appdata\\local\\programs\\python\\python37-32\\lib\\email\\_encoded_words.py',
+   'PYMODULE'),
+  ('email._header_value_parser',
+   'c:\\users\\ethan '
+   'tran\\appdata\\local\\programs\\python\\python37-32\\lib\\email\\_header_value_parser.py',
+   'PYMODULE'),
+  ('email._parseaddr',
+   'c:\\users\\ethan '
+   'tran\\appdata\\local\\programs\\python\\python37-32\\lib\\email\\_parseaddr.py',
+   'PYMODULE'),
+  ('email._policybase',
+   'c:\\users\\ethan '
+   'tran\\appdata\\local\\programs\\python\\python37-32\\lib\\email\\_policybase.py',
+   'PYMODULE'),
+  ('email.base64mime',
+   'c:\\users\\ethan '
+   'tran\\appdata\\local\\programs\\python\\python37-32\\lib\\email\\base64mime.py',
+   'PYMODULE'),
+  ('email.charset',
+   'c:\\users\\ethan '
+   'tran\\appdata\\local\\programs\\python\\python37-32\\lib\\email\\charset.py',
+   'PYMODULE'),
+  ('email.contentmanager',
+   'c:\\users\\ethan '
+   'tran\\appdata\\local\\programs\\python\\python37-32\\lib\\email\\contentmanager.py',
+   'PYMODULE'),
+  ('email.encoders',
+   'c:\\users\\ethan '
+   'tran\\appdata\\local\\programs\\python\\python37-32\\lib\\email\\encoders.py',
+   'PYMODULE'),
+  ('email.errors',
+   'c:\\users\\ethan '
+   'tran\\appdata\\local\\programs\\python\\python37-32\\lib\\email\\errors.py',
+   'PYMODULE'),
+  ('email.feedparser',
+   'c:\\users\\ethan '
+   'tran\\appdata\\local\\programs\\python\\python37-32\\lib\\email\\feedparser.py',
+   'PYMODULE'),
+  ('email.generator',
+   'c:\\users\\ethan '
+   'tran\\appdata\\local\\programs\\python\\python37-32\\lib\\email\\generator.py',
+   'PYMODULE'),
+  ('email.header',
+   'c:\\users\\ethan '
+   'tran\\appdata\\local\\programs\\python\\python37-32\\lib\\email\\header.py',
+   'PYMODULE'),
+  ('email.headerregistry',
+   'c:\\users\\ethan '
+   'tran\\appdata\\local\\programs\\python\\python37-32\\lib\\email\\headerregistry.py',
+   'PYMODULE'),
+  ('email.iterators',
+   'c:\\users\\ethan '
+   'tran\\appdata\\local\\programs\\python\\python37-32\\lib\\email\\iterators.py',
+   'PYMODULE'),
+  ('email.message',
+   'c:\\users\\ethan '
+   'tran\\appdata\\local\\programs\\python\\python37-32\\lib\\email\\message.py',
+   'PYMODULE'),
+  ('email.parser',
+   'c:\\users\\ethan '
+   'tran\\appdata\\local\\programs\\python\\python37-32\\lib\\email\\parser.py',
+   'PYMODULE'),
+  ('email.policy',
+   'c:\\users\\ethan '
+   'tran\\appdata\\local\\programs\\python\\python37-32\\lib\\email\\policy.py',
+   'PYMODULE'),
+  ('email.quoprimime',
+   'c:\\users\\ethan '
+   'tran\\appdata\\local\\programs\\python\\python37-32\\lib\\email\\quoprimime.py',
+   'PYMODULE'),
+  ('email.utils',
+   'c:\\users\\ethan '
+   'tran\\appdata\\local\\programs\\python\\python37-32\\lib\\email\\utils.py',
+   'PYMODULE'),
+  ('enemy',
+   'C:\\Users\\Ethan tran\\Documents\\platform-game\\enemy.py',
+   'PYMODULE'),
+  ('ftplib',
+   'c:\\users\\ethan '
+   'tran\\appdata\\local\\programs\\python\\python37-32\\lib\\ftplib.py',
+   'PYMODULE'),
+  ('game_data',
+   'C:\\Users\\Ethan tran\\Documents\\platform-game\\game_data.py',
+   'PYMODULE'),
+  ('getopt',
+   'c:\\users\\ethan '
+   'tran\\appdata\\local\\programs\\python\\python37-32\\lib\\getopt.py',
+   'PYMODULE'),
+  ('getpass',
+   'c:\\users\\ethan '
+   'tran\\appdata\\local\\programs\\python\\python37-32\\lib\\getpass.py',
+   'PYMODULE'),
+  ('gettext',
+   'c:\\users\\ethan '
+   'tran\\appdata\\local\\programs\\python\\python37-32\\lib\\gettext.py',
+   'PYMODULE'),
+  ('gzip',
+   'c:\\users\\ethan '
+   'tran\\appdata\\local\\programs\\python\\python37-32\\lib\\gzip.py',
+   'PYMODULE'),
+  ('hashlib',
+   'c:\\users\\ethan '
+   'tran\\appdata\\local\\programs\\python\\python37-32\\lib\\hashlib.py',
+   'PYMODULE'),
+  ('http',
+   'c:\\users\\ethan '
+   'tran\\appdata\\local\\programs\\python\\python37-32\\lib\\http\\__init__.py',
+   'PYMODULE'),
+  ('http.client',
+   'c:\\users\\ethan '
+   'tran\\appdata\\local\\programs\\python\\python37-32\\lib\\http\\client.py',
+   'PYMODULE'),
+  ('http.cookiejar',
+   'c:\\users\\ethan '
+   'tran\\appdata\\local\\programs\\python\\python37-32\\lib\\http\\cookiejar.py',
+   'PYMODULE'),
+  ('imp',
+   'c:\\users\\ethan '
+   'tran\\appdata\\local\\programs\\python\\python37-32\\lib\\imp.py',
+   'PYMODULE'),
+  ('importlib',
+   'c:\\users\\ethan '
+   'tran\\appdata\\local\\programs\\python\\python37-32\\lib\\importlib\\__init__.py',
+   'PYMODULE'),
+  ('importlib._bootstrap',
+   'c:\\users\\ethan '
+   'tran\\appdata\\local\\programs\\python\\python37-32\\lib\\importlib\\_bootstrap.py',
+   'PYMODULE'),
+  ('importlib._bootstrap_external',
+   'c:\\users\\ethan '
+   'tran\\appdata\\local\\programs\\python\\python37-32\\lib\\importlib\\_bootstrap_external.py',
+   'PYMODULE'),
+  ('importlib.abc',
+   'c:\\users\\ethan '
+   'tran\\appdata\\local\\programs\\python\\python37-32\\lib\\importlib\\abc.py',
+   'PYMODULE'),
+  ('importlib.machinery',
+   'c:\\users\\ethan '
+   'tran\\appdata\\local\\programs\\python\\python37-32\\lib\\importlib\\machinery.py',
+   'PYMODULE'),
+  ('importlib.resources',
+   'c:\\users\\ethan '
+   'tran\\appdata\\local\\programs\\python\\python37-32\\lib\\importlib\\resources.py',
+   'PYMODULE'),
+  ('importlib.util',
+   'c:\\users\\ethan '
+   'tran\\appdata\\local\\programs\\python\\python37-32\\lib\\importlib\\util.py',
+   'PYMODULE'),
+  ('inspect',
+   'c:\\users\\ethan '
+   'tran\\appdata\\local\\programs\\python\\python37-32\\lib\\inspect.py',
+   'PYMODULE'),
+  ('level',
+   'C:\\Users\\Ethan tran\\Documents\\platform-game\\level.py',
+   'PYMODULE'),
+  ('logging',
+   'c:\\users\\ethan '
+   'tran\\appdata\\local\\programs\\python\\python37-32\\lib\\logging\\__init__.py',
+   'PYMODULE'),
+  ('lzma',
+   'c:\\users\\ethan '
+   'tran\\appdata\\local\\programs\\python\\python37-32\\lib\\lzma.py',
+   'PYMODULE'),
+  ('mimetypes',
+   'c:\\users\\ethan '
+   'tran\\appdata\\local\\programs\\python\\python37-32\\lib\\mimetypes.py',
+   'PYMODULE'),
+  ('netrc',
+   'c:\\users\\ethan '
+   'tran\\appdata\\local\\programs\\python\\python37-32\\lib\\netrc.py',
+   'PYMODULE'),
+  ('nturl2path',
+   'c:\\users\\ethan '
+   'tran\\appdata\\local\\programs\\python\\python37-32\\lib\\nturl2path.py',
+   'PYMODULE'),
+  ('opcode',
+   'c:\\users\\ethan '
+   'tran\\appdata\\local\\programs\\python\\python37-32\\lib\\opcode.py',
+   'PYMODULE'),
+  ('optparse',
+   'c:\\users\\ethan '
+   'tran\\appdata\\local\\programs\\python\\python37-32\\lib\\optparse.py',
+   'PYMODULE'),
+  ('overworld',
+   'C:\\Users\\Ethan tran\\Documents\\platform-game\\overworld.py',
+   'PYMODULE'),
+  ('packaging',
+   'c:\\users\\ethan '
+   'tran\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\packaging\\__init__.py',
+   'PYMODULE'),
+  ('packaging._elffile',
+   'c:\\users\\ethan '
+   'tran\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\packaging\\_elffile.py',
+   'PYMODULE'),
+  ('packaging._manylinux',
+   'c:\\users\\ethan '
+   'tran\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\packaging\\_manylinux.py',
+   'PYMODULE'),
+  ('packaging._musllinux',
+   'c:\\users\\ethan '
+   'tran\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\packaging\\_musllinux.py',
+   'PYMODULE'),
+  ('packaging._parser',
+   'c:\\users\\ethan '
+   'tran\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\packaging\\_parser.py',
+   'PYMODULE'),
+  ('packaging._structures',
+   'c:\\users\\ethan '
+   'tran\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\packaging\\_structures.py',
+   'PYMODULE'),
+  ('packaging._tokenizer',
+   'c:\\users\\ethan '
+   'tran\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\packaging\\_tokenizer.py',
+   'PYMODULE'),
+  ('packaging.markers',
+   'c:\\users\\ethan '
+   'tran\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\packaging\\markers.py',
+   'PYMODULE'),
+  ('packaging.metadata',
+   'c:\\users\\ethan '
+   'tran\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\packaging\\metadata.py',
+   'PYMODULE'),
+  ('packaging.requirements',
+   'c:\\users\\ethan '
+   'tran\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\packaging\\requirements.py',
+   'PYMODULE'),
+  ('packaging.specifiers',
+   'c:\\users\\ethan '
+   'tran\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\packaging\\specifiers.py',
+   'PYMODULE'),
+  ('packaging.tags',
+   'c:\\users\\ethan '
+   'tran\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\packaging\\tags.py',
+   'PYMODULE'),
+  ('packaging.utils',
+   'c:\\users\\ethan '
+   'tran\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\packaging\\utils.py',
+   'PYMODULE'),
+  ('packaging.version',
+   'c:\\users\\ethan '
+   'tran\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\packaging\\version.py',
+   'PYMODULE'),
+  ('particles',
+   'C:\\Users\\Ethan tran\\Documents\\platform-game\\particles.py',
+   'PYMODULE'),
+  ('pickle',
+   'c:\\users\\ethan '
+   'tran\\appdata\\local\\programs\\python\\python37-32\\lib\\pickle.py',
+   'PYMODULE'),
+  ('pkg_resources',
+   'c:\\users\\ethan '
+   'tran\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\pkg_resources\\__init__.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor',
+   'c:\\users\\ethan '
+   'tran\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\pkg_resources\\_vendor\\__init__.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.importlib_resources',
+   'c:\\users\\ethan '
+   'tran\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\pkg_resources\\_vendor\\importlib_resources\\__init__.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.importlib_resources._adapters',
+   'c:\\users\\ethan '
+   'tran\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\pkg_resources\\_vendor\\importlib_resources\\_adapters.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.importlib_resources._common',
+   'c:\\users\\ethan '
+   'tran\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\pkg_resources\\_vendor\\importlib_resources\\_common.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.importlib_resources._compat',
+   'c:\\users\\ethan '
+   'tran\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\pkg_resources\\_vendor\\importlib_resources\\_compat.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.importlib_resources._itertools',
+   'c:\\users\\ethan '
+   'tran\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\pkg_resources\\_vendor\\importlib_resources\\_itertools.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.importlib_resources._legacy',
+   'c:\\users\\ethan '
+   'tran\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\pkg_resources\\_vendor\\importlib_resources\\_legacy.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.importlib_resources.abc',
+   'c:\\users\\ethan '
+   'tran\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\pkg_resources\\_vendor\\importlib_resources\\abc.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.importlib_resources.readers',
+   'c:\\users\\ethan '
+   'tran\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\pkg_resources\\_vendor\\importlib_resources\\readers.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.importlib_resources.simple',
+   'c:\\users\\ethan '
+   'tran\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\pkg_resources\\_vendor\\importlib_resources\\simple.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.jaraco',
+   'c:\\users\\ethan '
+   'tran\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\pkg_resources\\_vendor\\jaraco\\__init__.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.jaraco.context',
+   'c:\\users\\ethan '
+   'tran\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\pkg_resources\\_vendor\\jaraco\\context.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.jaraco.functools',
+   'c:\\users\\ethan '
+   'tran\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\pkg_resources\\_vendor\\jaraco\\functools.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.jaraco.text',
+   'c:\\users\\ethan '
+   'tran\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\pkg_resources\\_vendor\\jaraco\\text\\__init__.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.more_itertools',
+   'c:\\users\\ethan '
+   'tran\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\pkg_resources\\_vendor\\more_itertools\\__init__.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.more_itertools.more',
+   'c:\\users\\ethan '
+   'tran\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\pkg_resources\\_vendor\\more_itertools\\more.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.more_itertools.recipes',
+   'c:\\users\\ethan '
+   'tran\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\pkg_resources\\_vendor\\more_itertools\\recipes.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging',
+   'c:\\users\\ethan '
+   'tran\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\__init__.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging._elffile',
+   'c:\\users\\ethan '
+   'tran\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\_elffile.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging._manylinux',
+   'c:\\users\\ethan '
+   'tran\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\_manylinux.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging._musllinux',
+   'c:\\users\\ethan '
+   'tran\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\_musllinux.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging._parser',
+   'c:\\users\\ethan '
+   'tran\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\_parser.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging._structures',
+   'c:\\users\\ethan '
+   'tran\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\_structures.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging._tokenizer',
+   'c:\\users\\ethan '
+   'tran\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\_tokenizer.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging.markers',
+   'c:\\users\\ethan '
+   'tran\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\markers.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging.metadata',
+   'c:\\users\\ethan '
+   'tran\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\metadata.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging.requirements',
+   'c:\\users\\ethan '
+   'tran\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\requirements.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging.specifiers',
+   'c:\\users\\ethan '
+   'tran\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\specifiers.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging.tags',
+   'c:\\users\\ethan '
+   'tran\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\tags.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging.utils',
+   'c:\\users\\ethan '
+   'tran\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\utils.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging.version',
+   'c:\\users\\ethan '
+   'tran\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\version.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.platformdirs',
+   'c:\\users\\ethan '
+   'tran\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\pkg_resources\\_vendor\\platformdirs\\__init__.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.platformdirs.__main__',
+   'c:\\users\\ethan '
+   'tran\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\pkg_resources\\_vendor\\platformdirs\\__main__.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.platformdirs.android',
+   'c:\\users\\ethan '
+   'tran\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\pkg_resources\\_vendor\\platformdirs\\android.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.platformdirs.api',
+   'c:\\users\\ethan '
+   'tran\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\pkg_resources\\_vendor\\platformdirs\\api.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.platformdirs.macos',
+   'c:\\users\\ethan '
+   'tran\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\pkg_resources\\_vendor\\platformdirs\\macos.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.platformdirs.unix',
+   'c:\\users\\ethan '
+   'tran\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\pkg_resources\\_vendor\\platformdirs\\unix.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.platformdirs.version',
+   'c:\\users\\ethan '
+   'tran\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\pkg_resources\\_vendor\\platformdirs\\version.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.platformdirs.windows',
+   'c:\\users\\ethan '
+   'tran\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\pkg_resources\\_vendor\\platformdirs\\windows.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.typing_extensions',
+   'c:\\users\\ethan '
+   'tran\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\pkg_resources\\_vendor\\typing_extensions.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.zipp',
+   'c:\\users\\ethan '
+   'tran\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\pkg_resources\\_vendor\\zipp.py',
+   'PYMODULE'),
+  ('pkg_resources.extern',
+   'c:\\users\\ethan '
+   'tran\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\pkg_resources\\extern\\__init__.py',
+   'PYMODULE'),
+  ('pkgutil',
+   'c:\\users\\ethan '
+   'tran\\appdata\\local\\programs\\python\\python37-32\\lib\\pkgutil.py',
+   'PYMODULE'),
+  ('platform',
+   'c:\\users\\ethan '
+   'tran\\appdata\\local\\programs\\python\\python37-32\\lib\\platform.py',
+   'PYMODULE'),
+  ('player',
+   'C:\\Users\\Ethan tran\\Documents\\platform-game\\player.py',
+   'PYMODULE'),
+  ('plistlib',
+   'c:\\users\\ethan '
+   'tran\\appdata\\local\\programs\\python\\python37-32\\lib\\plistlib.py',
+   'PYMODULE'),
+  ('pprint',
+   'c:\\users\\ethan '
+   'tran\\appdata\\local\\programs\\python\\python37-32\\lib\\pprint.py',
+   'PYMODULE'),
+  ('py_compile',
+   'c:\\users\\ethan '
+   'tran\\appdata\\local\\programs\\python\\python37-32\\lib\\py_compile.py',
+   'PYMODULE'),
+  ('pygame',
+   'c:\\users\\ethan '
+   'tran\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\pygame\\__init__.py',
+   'PYMODULE'),
+  ('pygame.colordict',
+   'c:\\users\\ethan '
+   'tran\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\pygame\\colordict.py',
+   'PYMODULE'),
+  ('pygame.cursors',
+   'c:\\users\\ethan '
+   'tran\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\pygame\\cursors.py',
+   'PYMODULE'),
+  ('pygame.fastevent',
+   'c:\\users\\ethan '
+   'tran\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\pygame\\fastevent.py',
+   'PYMODULE'),
+  ('pygame.ftfont',
+   'c:\\users\\ethan '
+   'tran\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\pygame\\ftfont.py',
+   'PYMODULE'),
+  ('pygame.macosx',
+   'c:\\users\\ethan '
+   'tran\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\pygame\\macosx.py',
+   'PYMODULE'),
+  ('pygame.pkgdata',
+   'c:\\users\\ethan '
+   'tran\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\pygame\\pkgdata.py',
+   'PYMODULE'),
+  ('pygame.sndarray',
+   'c:\\users\\ethan '
+   'tran\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\pygame\\sndarray.py',
+   'PYMODULE'),
+  ('pygame.sprite',
+   'c:\\users\\ethan '
+   'tran\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\pygame\\sprite.py',
+   'PYMODULE'),
+  ('pygame.surfarray',
+   'c:\\users\\ethan '
+   'tran\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\pygame\\surfarray.py',
+   'PYMODULE'),
+  ('pygame.sysfont',
+   'c:\\users\\ethan '
+   'tran\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\pygame\\sysfont.py',
+   'PYMODULE'),
+  ('pygame.threads',
+   'c:\\users\\ethan '
+   'tran\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\pygame\\threads\\__init__.py',
+   'PYMODULE'),
+  ('pygame.version',
+   'c:\\users\\ethan '
+   'tran\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\pygame\\version.py',
+   'PYMODULE'),
+  ('queue',
+   'c:\\users\\ethan '
+   'tran\\appdata\\local\\programs\\python\\python37-32\\lib\\queue.py',
+   'PYMODULE'),
+  ('quopri',
+   'c:\\users\\ethan '
+   'tran\\appdata\\local\\programs\\python\\python37-32\\lib\\quopri.py',
+   'PYMODULE'),
+  ('random',
+   'c:\\users\\ethan '
+   'tran\\appdata\\local\\programs\\python\\python37-32\\lib\\random.py',
+   'PYMODULE'),
+  ('selectors',
+   'c:\\users\\ethan '
+   'tran\\appdata\\local\\programs\\python\\python37-32\\lib\\selectors.py',
+   'PYMODULE'),
+  ('settings',
+   'C:\\Users\\Ethan tran\\Documents\\platform-game\\settings.py',
+   'PYMODULE'),
+  ('shlex',
+   'c:\\users\\ethan '
+   'tran\\appdata\\local\\programs\\python\\python37-32\\lib\\shlex.py',
+   'PYMODULE'),
+  ('shutil',
+   'c:\\users\\ethan '
+   'tran\\appdata\\local\\programs\\python\\python37-32\\lib\\shutil.py',
+   'PYMODULE'),
+  ('signal',
+   'c:\\users\\ethan '
+   'tran\\appdata\\local\\programs\\python\\python37-32\\lib\\signal.py',
+   'PYMODULE'),
+  ('socket',
+   'c:\\users\\ethan '
+   'tran\\appdata\\local\\programs\\python\\python37-32\\lib\\socket.py',
+   'PYMODULE'),
+  ('ssl',
+   'c:\\users\\ethan '
+   'tran\\appdata\\local\\programs\\python\\python37-32\\lib\\ssl.py',
+   'PYMODULE'),
+  ('string',
+   'c:\\users\\ethan '
+   'tran\\appdata\\local\\programs\\python\\python37-32\\lib\\string.py',
+   'PYMODULE'),
+  ('stringprep',
+   'c:\\users\\ethan '
+   'tran\\appdata\\local\\programs\\python\\python37-32\\lib\\stringprep.py',
+   'PYMODULE'),
+  ('subprocess',
+   'c:\\users\\ethan '
+   'tran\\appdata\\local\\programs\\python\\python37-32\\lib\\subprocess.py',
+   'PYMODULE'),
+  ('support',
+   'C:\\Users\\Ethan tran\\Documents\\platform-game\\support.py',
+   'PYMODULE'),
+  ('sysconfig',
+   'c:\\users\\ethan '
+   'tran\\appdata\\local\\programs\\python\\python37-32\\lib\\sysconfig.py',
+   'PYMODULE'),
+  ('tarfile',
+   'c:\\users\\ethan '
+   'tran\\appdata\\local\\programs\\python\\python37-32\\lib\\tarfile.py',
+   'PYMODULE'),
+  ('tempfile',
+   'c:\\users\\ethan '
+   'tran\\appdata\\local\\programs\\python\\python37-32\\lib\\tempfile.py',
+   'PYMODULE'),
+  ('textwrap',
+   'c:\\users\\ethan '
+   'tran\\appdata\\local\\programs\\python\\python37-32\\lib\\textwrap.py',
+   'PYMODULE'),
+  ('threading',
+   'c:\\users\\ethan '
+   'tran\\appdata\\local\\programs\\python\\python37-32\\lib\\threading.py',
+   'PYMODULE'),
+  ('tiles',
+   'C:\\Users\\Ethan tran\\Documents\\platform-game\\tiles.py',
+   'PYMODULE'),
+  ('tracemalloc',
+   'c:\\users\\ethan '
+   'tran\\appdata\\local\\programs\\python\\python37-32\\lib\\tracemalloc.py',
+   'PYMODULE'),
+  ('typing',
+   'c:\\users\\ethan '
+   'tran\\appdata\\local\\programs\\python\\python37-32\\lib\\typing.py',
+   'PYMODULE'),
+  ('typing_extensions',
+   'c:\\users\\ethan '
+   'tran\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\typing_extensions.py',
+   'PYMODULE'),
+  ('ui', 'C:\\Users\\Ethan tran\\Documents\\platform-game\\ui.py', 'PYMODULE'),
+  ('uu',
+   'c:\\users\\ethan '
+   'tran\\appdata\\local\\programs\\python\\python37-32\\lib\\uu.py',
+   'PYMODULE'),
+  ('xml',
+   'c:\\users\\ethan '
+   'tran\\appdata\\local\\programs\\python\\python37-32\\lib\\xml\\__init__.py',
+   'PYMODULE'),
+  ('xml.parsers',
+   'c:\\users\\ethan '
+   'tran\\appdata\\local\\programs\\python\\python37-32\\lib\\xml\\parsers\\__init__.py',
+   'PYMODULE'),
+  ('xml.parsers.expat',
+   'c:\\users\\ethan '
+   'tran\\appdata\\local\\programs\\python\\python37-32\\lib\\xml\\parsers\\expat.py',
+   'PYMODULE'),
+  ('xml.sax',
+   'c:\\users\\ethan '
+   'tran\\appdata\\local\\programs\\python\\python37-32\\lib\\xml\\sax\\__init__.py',
+   'PYMODULE'),
+  ('xml.sax._exceptions',
+   'c:\\users\\ethan '
+   'tran\\appdata\\local\\programs\\python\\python37-32\\lib\\xml\\sax\\_exceptions.py',
+   'PYMODULE'),
+  ('xml.sax.expatreader',
+   'c:\\users\\ethan '
+   'tran\\appdata\\local\\programs\\python\\python37-32\\lib\\xml\\sax\\expatreader.py',
+   'PYMODULE'),
+  ('xml.sax.handler',
+   'c:\\users\\ethan '
+   'tran\\appdata\\local\\programs\\python\\python37-32\\lib\\xml\\sax\\handler.py',
+   'PYMODULE'),
+  ('xml.sax.saxutils',
+   'c:\\users\\ethan '
+   'tran\\appdata\\local\\programs\\python\\python37-32\\lib\\xml\\sax\\saxutils.py',
+   'PYMODULE'),
+  ('xml.sax.xmlreader',
+   'c:\\users\\ethan '
+   'tran\\appdata\\local\\programs\\python\\python37-32\\lib\\xml\\sax\\xmlreader.py',
+   'PYMODULE'),
+  ('zipfile',
+   'c:\\users\\ethan '
+   'tran\\appdata\\local\\programs\\python\\python37-32\\lib\\zipfile.py',
+   'PYMODULE')])

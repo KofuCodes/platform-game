@@ -1,4 +1,4 @@
-import pygame, sys
+import pygame, sys, asyncio
 from settings import * 
 from level import Level
 from overworld import Overworld
@@ -14,8 +14,8 @@ class Game:
 		self.coins = 0
 		
 		# audio 
-		self.level_bg_music = pygame.mixer.Sound('./audio/level_music.wav')
-		self.overworld_bg_music = pygame.mixer.Sound('./audio/overworld_music.wav')
+		self.level_bg_music = pygame.mixer.Sound('./audio/level_music.ogg')
+		self.overworld_bg_music = pygame.mixer.Sound('./audio/overworld_music.ogg')
 
 		# overworld creation
 		self.overworld = Overworld(0,self.max_level,screen,self.create_level)
@@ -71,14 +71,18 @@ screen = pygame.display.set_mode((screen_width,screen_height))
 clock = pygame.time.Clock()
 game = Game()
 
-while True:
-	for event in pygame.event.get():
-		if event.type == pygame.QUIT:
-			pygame.quit()
-			sys.exit()
-	
-	screen.fill('grey')
-	game.run()
+async def main():
+	while True:
+		for event in pygame.event.get():
+			if event.type == pygame.QUIT:
+				pygame.quit()
+				sys.exit()
+		
+		screen.fill('grey')
+		game.run()
 
-	pygame.display.update()
-	clock.tick(60)
+		pygame.display.update()
+		clock.tick(60)
+		await asyncio.sleep(0)
+
+asyncio.run(main())
